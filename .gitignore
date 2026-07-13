@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+detect_log.txt
+
+# Models
+*.pt
+
+# Dataset
+train/
+valid/
+test/
+axe_add/
+
+# Training outputs
+runs/
+results/
+results_video/
+
+# Media
+*.mp4
+
+# System
+.DS_Store
+Thumbs.db
