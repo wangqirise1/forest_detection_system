@@ -35,3 +35,6 @@ results_video/
 # System
 .DS_Store
 Thumbs.db
+# Test images
+test_*.jpg
+newtest*.jpg
